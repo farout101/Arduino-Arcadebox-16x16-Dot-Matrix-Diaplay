@@ -1,2 +1,3 @@
+This is the project created by me and my friend (https://github.com/Yoinami) <br>
 The sketch and the Codes are provided. <br>
-You can also check here for more information about this project https://github.com/Yoinami
+Contect us for more information:)
