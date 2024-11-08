@@ -91,3 +91,13 @@ void loop() {
 3. **Enhanced User Experience**: Offers Snake gameplay and temperature monitoring in one device.
 4. **Environmental Awareness**: Empowers users with real-time temperature readings.
 5. **Portability**: Lightweight design allows for easy transportation and usability.
+
+## Limitations
+1. **Limited Game Selection**: Only offers the Snake game, limiting variety.
+2. **Screen Size Constraints**: Compact size may reduce visibility.
+3. **Lack of Multiplayer Functionality**: Does not support multiplayer gaming.
+4. **Limited Temperature Monitoring Range**: Restricted monitoring range for larger areas.
+5. **Battery Life Dependency**: Requires frequent recharging for portable use.
+
+## Conclusion
+This project showcases the Handheld Game Box with Temperature Detection, a device that combines entertainment and environmental awareness. By merging classic Snake gameplay with real-time temperature monitoring, it demonstrates versatility in a compact, portable design. While it offers a significant advancement in portable devices, further refinement could make it a must-have companion for various settings.
