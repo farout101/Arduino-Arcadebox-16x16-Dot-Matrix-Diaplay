@@ -1,3 +1,8 @@
-1. The Arduino that we used for our project is Arduino Uno R3.
-2. The memory on the device is only 32Kb and it wasn't enough for source code.
-3. That's why we decided to use 2 Arduino Uno R3 instead of 1.
+1. **Arduino Model**:  
+   For this project, we utilized the **Arduino Uno R3**.
+
+2. **Memory Limitations**:  
+   The **32KB memory** on a single Arduino Uno R3 was insufficient for our source code, as it couldn't handle the full scope of the project.
+
+3. **Solution - Dual Arduino Setup**:  
+   To overcome this limitation, we opted to use **two Arduino Uno R3 boards** instead of just one. This setup provided the additional memory and processing capability required to run the project smoothly.
