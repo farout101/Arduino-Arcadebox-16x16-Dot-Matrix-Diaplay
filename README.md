@@ -6,13 +6,14 @@
 3. [Objectives](#objectives)
 4. [Components](#components)
 5. [Circuit Diagram](#circuit-diagram)
-6. [Project Design](#project-design)
-7. [Implementation](#implementation)
-8. [Programming the Snake Game](#programming-the-snake-game)
-9. [Testing and Troubleshooting](#testing-and-troubleshooting)
-10. [Advantages](#advantages)
-11. [Limitations](#limitations)
-12. [Conclusion](#conclusion)
+6. [Demo Diagram](#demo-diagram)
+7. [Project Design](#project-design)
+8. [Implementation](#implementation)
+9. [Programming the Snake Game](#programming-the-snake-game)
+10. [Testing and Troubleshooting](#testing-and-troubleshooting)
+11. [Advantages](#advantages)
+12. [Limitations](#limitations)
+13. [Conclusion](#conclusion)
 
 ## Abstract
 This project introduces a handheld game box equipped with temperature detection, catering to the need for portable entertainment and practical utility. Integrating classic gaming with real-time temperature monitoring, it offers a unique blend of fun and environmental awareness. Through innovative technology, this device enhances user experience while promoting awareness of surrounding conditions.
@@ -47,13 +48,20 @@ The Handheld Game Box with Temperature Detection is a dual-purpose device that m
 Below are the diagrams for the hardware connections:
 1. **Slave Arduino Circuit Diagram**
 
-   ![Slave Circuit](./path_to_your_uploaded_image1.jpg)
+   ![Slave Circuit](./images/slave_arduino.jpg)
 
 2. **Master Arduino Circuit Diagram**
 
-   ![Master Circuit](./path_to_your_uploaded_image2.jpg)
+   ![Master Circuit](./images/master_arduino.jpg)
 
-*Note: Replace `./path_to_your_uploaded_image1.jpg` and `./path_to_your_uploaded_image2.jpg` with the actual paths to your images.*
+## Demo Diagram
+Below are the Demo Diagrams of the hardware:
+1. ![first page](./images/first-page.jpg)
+2. ![second page](./images/second-page.jpg)
+3. ![third page](./images/third-page.jpg)
+4. ![fourth page](./images/fourth-page.jpg)
+5. ![fifth page](./images/fifth-page.jpg)
+
 
 ## Project Design
 This project combines two Arduino Uno boards: one as a master and the other as a slave. The master Arduino handles the LCD display and temperature monitoring using a DHT22 sensor. The slave Arduino manages the Snake game displayed on a 16×16 dot matrix display, controlled through an analog joystick and buttons. The communication between Arduinos is achieved using the I2C protocol.
