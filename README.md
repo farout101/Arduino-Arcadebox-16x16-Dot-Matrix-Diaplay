@@ -62,7 +62,6 @@ Below are the Demo Diagrams of the hardware:
     <img src="./images/third-page.jpg" alt="Third Demo" width="200">
     <img src="./images/fourth-page.jpg" alt="Fourth Demo" width="200">
     <img src="./images/5-page.jpg" alt="Fifth Demo" width="200">
-    <img src="./images/6th-page.jpg" alt="Fifth Demo" width="200">
     <img src="./images/seventh-page.jpg" alt="Fifth Demo" width="200">
     <img src="./images/8th-page.jpg" alt="Fifth Demo" width="200">
 </div>
