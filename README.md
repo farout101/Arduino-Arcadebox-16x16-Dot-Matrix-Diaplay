@@ -46,21 +46,37 @@ The Handheld Game Box with Temperature Detection is a dual-purpose device that m
 
 ## Circuit Diagram
 Below are the diagrams for the hardware connections:
-1. **Slave Arduino Circuit Diagram**
 
-    <img src="./images/slave_arduino.jpg" width="300">
-
-2. **Master Arduino Circuit Diagram**
-
-    <img src="./images/master_arduino.jpg" width="300">
+<div style="display: flex; justify-content: space-around;">
+    <div>
+        <h4>Slave Arduino Circuit Diagram</h4>
+        <img src="./images/slave_arduino.jpg" width="300">
+    </div>
+    <div>
+        <h4>Master Arduino Circuit Diagram</h4>
+        <img src="./images/master_arduino.jpg" width="300">
+    </div>
+</div>
 
 ## Demo Diagram
 Below are the Demo Diagrams of the hardware:
-1. <img src="./images/first-page.jpg" width="300">
-2. <img src="./images/second-page.jpg" width="300">
-3. <img src="./images/third-page.jpg" width="300">
-4. <img src="./images/fourth-page.jpg" width="300">
-5. <img src="./images/fifth-page.jpg" width="300">
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 10px;">
+    <div>
+        <img src="./images/first-page.jpg" width="300">
+    </div>
+    <div>
+        <img src="./images/second-page.jpg" width="300">
+    </div>
+    <div>
+        <img src="./images/third-page.jpg" width="300">
+    </div>
+    <div>
+        <img src="./images/fourth-page.jpg" width="300">
+    </div>
+    <div>
+        <img src="./images/fifth-page.jpg" width="300">
+    </div>
+</div>
 
 
 ## Project Design
