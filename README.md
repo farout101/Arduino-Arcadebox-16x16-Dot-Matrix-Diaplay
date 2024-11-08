@@ -47,16 +47,11 @@ The Handheld Game Box with Temperature Detection is a dual-purpose device that m
 ## Circuit Diagram
 Below are the diagrams for the hardware connections:
 
-<div style="display: flex; justify-content: space-around;">
-    <div style="text-align: center; margin-right: 20px;">
-        <h4>1. Slave Arduino Circuit Diagram</h4>
-        <img src="./images/slave_arduino.jpg" alt="Slave Circuit" width="400">
-    </div>
-    <div style="text-align: center;">
-        <h4>2. Master Arduino Circuit Diagram</h4>
-        <img src="./images/master_arduino.jpg" alt="Master Circuit" width="400">
-    </div>
-</div>
+### 1. Slave Arduino Circuit Diagram
+![Slave Circuit](./images/slave_arduino.jpg)
+
+### 2. Master Arduino Circuit Diagram
+![Master Circuit](./images/master_arduino.jpg)
 
 ## Demo Diagram
 Below are the Demo Diagrams of the hardware:
@@ -67,6 +62,9 @@ Below are the Demo Diagrams of the hardware:
     <img src="./images/third-page.jpg" alt="Third Demo" width="200">
     <img src="./images/fourth-page.jpg" alt="Fourth Demo" width="200">
     <img src="./images/fifth-page.jpg" alt="Fifth Demo" width="200">
+    <img src="./images/sixth-page.jpg" alt="Fifth Demo" width="200">
+    <img src="./images/seventh-page.jpg" alt="Fifth Demo" width="200">
+    <img src="./images/8th-page.jpg" alt="Fifth Demo" width="200">
 </div>
 
 
