@@ -1,19 +1,21 @@
 # Handheld Game Box with Temperature Detection
 
 ## Table of Contents
-1. [Abstract](#abstract)
-2. [Introduction](#introduction)
-3. [Objectives](#objectives)
-4. [Components](#components)
-5. [Circuit Diagram](#circuit-diagram)
-6. [Demo Diagram](#demo-diagram)
-7. [Project Design](#project-design)
-8. [Implementation](#implementation)
-9. [Programming the Snake Game](#programming-the-snake-game)
-10. [Testing and Troubleshooting](#testing-and-troubleshooting)
-11. [Advantages](#advantages)
-12. [Limitations](#limitations)
-13. [Conclusion](#conclusion)
+
+- **[Abstract](#abstract)** - Brief overview of the project.
+- **[Introduction](#introduction)** - Background and project context.
+- **[Objectives](#objectives)** - Key goals of the project.
+- **[Components](#components)** - List of components used.
+- **[Circuit Diagram](#circuit-diagram)** - Hardware connection diagrams.
+- **[Demo Diagram](#demo-diagram)** - Prototype visuals.
+- **[Project Design](#project-design)** - Structural overview.
+- **[Implementation](#implementation)** - Steps to build the project.
+- **[Programming the Snake Game](#programming-the-snake-game)** - Coding the game.
+- **[Testing and Troubleshooting](#testing-and-troubleshooting)** - Testing methodologies.
+- **[Advantages](#advantages)** - Benefits of the project.
+- **[Limitations](#limitations)** - Constraints and challenges.
+- **[Conclusion](#conclusion)** - Summary of outcomes.
+
 
 ## Abstract
 This project introduces a handheld game box equipped with temperature detection, catering to the need for portable entertainment and practical utility. Integrating classic gaming with real-time temperature monitoring, it offers a unique blend of fun and environmental awareness. Through innovative technology, this device enhances user experience while promoting awareness of surrounding conditions.
