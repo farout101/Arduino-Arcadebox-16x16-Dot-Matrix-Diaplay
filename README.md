@@ -21,7 +21,7 @@
 This project introduces a handheld game box equipped with temperature detection, catering to the need for portable entertainment and practical utility. Integrating classic gaming with real-time temperature monitoring, it offers a unique blend of fun and environmental awareness. Through innovative technology, this device enhances user experience while promoting awareness of surrounding conditions.
 
 ## Introduction
-The Handheld Game Box with Temperature Detection is a dual-purpose device that merges gaming with environmental monitoring. This project is designed to provide users with entertainment while keeping them informed about the temperature of their surroundings. By integrating the classic Snake game and temperature monitoring capabilities, this device is suitable for on-the-go entertainment and real-time environmental awareness.
+The Handheld Game Box with Temperature Detection is a dual-purpose device that merges gaming with environmental monitoring co-developed with my friend [Thihan Soe](https://github.com/Yoinami). This project is designed to provide users with entertainment while keeping them informed about the temperature of their surroundings. By integrating the classic Snake game and temperature monitoring capabilities, this device is suitable for on-the-go entertainment and real-time environmental awareness.
 
 ## Objectives
 1. Develop a versatile and user-friendly handheld game box with temperature detection.
